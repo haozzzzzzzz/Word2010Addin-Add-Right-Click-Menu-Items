@@ -5,3 +5,4 @@ Word2010Addin-Add-Right-Click-Menu-Items
 
 Author : haozi
 Url : haozi.freetzi.com
+Related Post : http://haozi.freetzi.com/software/csharp/office/64.html
